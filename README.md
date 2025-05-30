@@ -1,17 +1,30 @@
-[![@denandrapr's Holopin board](https://holopin.me/denandrapr)](https://holopin.io/@denandrapr)
+# Hi there, I'm Denandra Prasetya 👋
 
-### Find me on
+**Mobile Developer** | **Android Specialist** | **Based in Surabaya, Indonesia**
 
-[<img src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:denandra.prasetya@akarinti.tech) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/denandra-prasetya/) [<img src ="https://img.shields.io/badge/Website-Nndraa.me-blue.svg?&style=for-the-badge">](https://nndraa.me/)
+Currently crafting mobile experiences at **Akar Inti Teknologi** as an Android Developer, with expertise spanning native and cross-platform development.
 
-### Hi there 👋
+## 🛠️ Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-My name is Denandra Prasetya and I'm mobile developer, I'm from Indonesia living in Surabaya and currently working at Akar Inti Teknologi as Android Developer. Working with Kotlin, Java, React Native, ReactJS
+## 🎯 What I Do
+- 📱 **Android Development** - Building robust native Android applications
+- ⚛️ **Cross-Platform Mobile** - Creating seamless experiences with React Native
+- 🌐 **Web Development** - Frontend solutions with ReactJS
+- 🔧 **Mobile Architecture** - Designing scalable and maintainable codebases
 
-<!--START_SECTION:stats-->
-## &#x1f4c8; My GitHub Stats
-<a href="https://github.com/denandrapr">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=denandrapr&theme=tokyonight&show_icons=true" align="left" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denandrapr&theme=tokyonight&layout=compact" />
-</a>
-<!--END_SECTION:stats-->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denandrapr&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denandrapr&layout=compact&theme=default&hide_border=true)
+
+## 🤝 Let's Connect
+[![Email](https://img.shields.io/badge/Email-denandra.prasetya@akarinti.tech-red?style=flat-square&logo=gmail&logoColor=white)](mailto:denandra.prasetya@akarinti.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denandra-prasetya/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=safari&logoColor=white)](https://nndraa.me/)
+
+---
+*"Building mobile solutions that make a difference, one app at a time."*
