@@ -1,8 +1,8 @@
 # Hi there, I'm Denandra Prasetya 👋
 
-**Mobile Developer** | **Android Specialist** | **Based in Surabaya, Indonesia**
+**Mobile Developer** | **Android Specialist** | **Based in Jakarta, Indonesia**
 
-Currently crafting mobile experiences at **Akar Inti Teknologi** as an Android Developer, with expertise spanning native and cross-platform development.
+Currently crafting mobile experiences at **Hana Bank** as an Android Developer, with expertise spanning native and cross-platform development.
 
 ## 🛠️ Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
